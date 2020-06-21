@@ -1,2 +1,2 @@
 # rainbow
-a repo about rainbow
+a repo about rainbows in the key of C major.
